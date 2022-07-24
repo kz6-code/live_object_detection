@@ -1,0 +1,32 @@
+body{
+    background-size:cover ;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+    font-size: 12px;
+    size: 12px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(142, 18, 18);
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+#star_model{
+    font-size: 18px;
+    margin-bottom: 100px;
+}
+
+#input_thing{
+    border-radius: 12px;
+    width: 130px;
+}
